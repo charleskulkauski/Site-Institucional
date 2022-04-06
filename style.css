@@ -62,6 +62,56 @@ p{
     margin-left:20%;
 }
 
+.missao-visao-valores{
+    height: 412px;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.missao {
+    width: 222px;
+    height: 228px;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+
+.titulo{
+    text-align:center;
+    color: #E6005A;
+
+
+}
+.missao img{
+    width: 150px;
+    height:150px; 
+}
+
+.missao p{
+    width: 180px;
+    text-align:center;
+}
+
+.visao img{
+    width: 150px;
+    height:150px;
+}
+
+.visao p{
+    width: 222px;
+    height:81px;
+}
+
+.valores img{
+    width: 150px;
+    height: 150px;
+}
+.valores p{
+    width: 222px;
+    height: 81px;
+}
+
 .footer{
     background-color: #32B9CD;
     color: white;
@@ -74,6 +124,7 @@ p{
     align-items: center;
 }
 
+/*Login*/
 .card{
     background-color: #e5e5e5;
     color: #e6005a;
