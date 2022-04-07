@@ -63,54 +63,38 @@ p{
 }
 
 .missao-visao-valores{
+    width: 80%;
+    margin:auto;
     height: 412px;
-    display:flex;
-    justify-content: space-between;
-    align-items:center;
-}
-.missao {
-    width: 222px;
-    height: 228px;
     display: flex;
-    flex-direction:column;
+    flex-direction:row;
     align-items:center;
-    justify-content:center;
+    justify-content:space-between;
 }
+
 
 .titulo{
     text-align:center;
     color: #E6005A;
+    font-size:22px;
+    height:26px;
+    margin-top: 9px;
+    font-weight:bold;
 
 
 }
-.missao img{
+.missao-visao-valores img{
     width: 150px;
     height:150px; 
+    display:flex;
+    margin: auto;
 }
 
-.missao p{
+.missao-visao-valores p{
     width: 180px;
     text-align:center;
 }
 
-.visao img{
-    width: 150px;
-    height:150px;
-}
-
-.visao p{
-    width: 222px;
-    height:81px;
-}
-
-.valores img{
-    width: 150px;
-    height: 150px;
-}
-.valores p{
-    width: 222px;
-    height: 81px;
-}
 
 .footer{
     background-color: #32B9CD;
