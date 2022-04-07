@@ -1,0 +1,31 @@
+body{
+    background-color: gray; 
+    margin: 0;
+    padding:0; 
+}
+.header{
+    border-bottom: 1px solid red;
+    background-color: aqua;
+
+}
+.container {
+
+    display: flex;
+    justify-content:space-between;
+    width: 80%;
+    margin: 0px auto;
+}
+.navbar{
+
+    display: flex;
+    padding: 0px;
+    list-style: none;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;  
+    
+}
+
+.agora{
+
+}

@@ -77,12 +77,10 @@ p{
     text-align:center;
     color: #E6005A;
     font-size:22px;
-    height:26px;
     margin-top: 9px;
     font-weight:bold;
-
-
 }
+
 .missao-visao-valores img{
     width: 150px;
     height:150px; 
@@ -92,6 +90,8 @@ p{
 
 .missao-visao-valores p{
     width: 180px;
+    height: 10px;
+    font-size: 16px;
     text-align:center;
 }
 
